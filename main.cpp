@@ -39,5 +39,7 @@ int main()
     cout << "L'area del primo cerchio è " << area1 << " cm e la circonferenza è " << circ1 << " cm." << endl;
 
     cout << "L'area del secondo cerchio è " << area2 << " cm e la circonferenza è " << circ2 << " cm." << endl;
+
+    return 0;
 }
 
